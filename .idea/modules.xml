@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../Node/myone/myone.iml" filepath="$PROJECT_DIR$/../../../Node/myone/myone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/前后分离项目.iml" filepath="$PROJECT_DIR$/前后分离项目.iml" />
+    </modules>
+  </component>
+</project>
